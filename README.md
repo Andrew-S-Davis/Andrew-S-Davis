@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Hi, I'm Andrew Davis
+I'm a data scientist with a background in engineering and a focus on building practical machine learning solutions that drive real-world impact. I specialize in turning complex data into clear, actionable insights.
 <!--
 **Andrew-S-Davis/Andrew-S-Davis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
