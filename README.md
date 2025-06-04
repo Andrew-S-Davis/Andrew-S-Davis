@@ -1,4 +1,4 @@
-# Hi, I'm Josh Smith
+# Hi, I'm Andrew Davis
 
 I'm a data scientist with a background in engineering and a focus on building practical machine learning solutions that drive real-world impact. I specialize in turning complex data into clear, actionable insights.
 
