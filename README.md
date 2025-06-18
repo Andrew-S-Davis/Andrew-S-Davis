@@ -4,13 +4,13 @@ Cloud Architect and Data Engineer with 9+ years supporting science forward, miss
 
 <p align="center"> 
     <a href="https://www.linkedin.com/in/andrewstephendavis/">
-        <img height="50" src="images/linkedin_icon.png" />
+        <img height="50" src="images/linkedin_icon.png"/>
     </a>
     <a href="mailto:andrew.s.davis11@gmail.com">
-        <img height="50" src="images/gmail_icon.png" />
+        <img height="50" src="images/gmail_icon.png"/>
     </a>
     <a href="https://development.finkast.com">
-        <img height="50" src="images/finkast_logo.png" />
+        <img height="50" src="images/finkast_logo.png"/>
     </a>
 </p>
 
