@@ -1,42 +1,39 @@
 # Hi, I'm Andrew Davis
 
-I'm a data scientist with a background in engineering and a focus on building practical machine learning solutions that drive real-world impact. I specialize in turning complex data into clear, actionable insights.
-
+Cloud Architect and Data Engineer with 9+ years supporting science forward, mission-critical, government programs. Proven ability to deliver high-impact technical solutions for scientific and engineering domains, particularly where cloud-native technologies, big data processing, and DevSecOps intersect. Experienced in cross-functional collaboration, stakeholder engagement, and driving innovation in regulated environments.
 
 <p align="center"> 
-    <a href="https://www.linkedin.com/in/lucashenrique-santos/">
-        <img height="50" src="images/linkedin_icon.svg" />
+    <a href="https://www.linkedin.com/in/andrewstephendavis/">
+        <img height="50" src="images/linkedin_icon.png" />
     </a>
-    <a href="mailto:lucas.hneto@hotmail.com">
-        <img height="50" src="images/gmail_icon.svg" />
+    <a href="mailto:andrew.s.davis11@gmail.com">
+        <img height="50" src="images/gmail_icon.png" />
     </a>
-    <a href="https://discord.com/users/379762938019446785">
-        <img height="50" src="images/discord_icon.svg" />
+    <a href="https://development.finkast.com">
+        <img height="50" src="images/finkast_logo.png" />
     </a>
-    <br/>
-    <img src="metrics.plugin.fortune.svg" alt="Fortune" width="400">
 </p>
 
 ##  Skills
 
-- **Languages**: Python, SQL  
-- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, LightGBM, Keras, NLTK  
-- **Tools**: Jupyter Notebook, Git, Excel, PySpark  
-- **Techniques**: Machine Learning, Natural Language Processing, Time Series Forecasting, Feature Engineering, Exploratory Data Analysis
+- **Languages**: Python, SQL, HCL/Terraform, C#, Typescript, Javascript
+- **Libraries/Frameworks**: React, PySpark, Beautiful Soup, Pandas, Scikit-learn, TensorFlow, PyTorch, Great Expectations
+- **Tools**: Amazon Web Services (AWS), Git, Apache Spark, GitHub Actions
+- **Techniques**: Machine Learning, Natural Language Processing, Time Series Forecasting, Feature Engineering, Continuous Integration & Continuous Deployment, Data Ontology Development
 
 ##  Projects
 
-- **[Customer Churn Prediction](https://github.com/JTsmit2013/Customer_Churn_S17)**  
-  Used Gradient Boosting to predict telecom churn with 93% AUC-ROC.  
+- **[FinKast Market Intelligence](https://github.com/FinKast)**  
+  FinKast is my personal passion project. Meant to serve as a market research platform that provides individuals with unique, data driven perspectives on current stock market trends and insights.
 
-- **[Movie Review Sentiment Detection](https://github.com/JTsmit2013/Machine_Learning_Texts_S14)**  
-  Built NLP models to classify positive vs. negative movie reviews using TF-IDF and LightGBM.  
+- **[James Webb Image Processing](https://github.com/Andrew-S-Davis/JWST)**  
+  Project motivated to retrieve, normalize and process, and subsequently publish the latest JWST imagery
 
-- **[Taxi Demand Forecasting](https://github.com/JTsmit2013/Taxi_Demand_Prediction_S13)**  
-  Developed time series models (SARIMA, ARIMA) to predict hourly taxi demand to Chicago O’Hare.
+- **[Personal Webpage](https://github.com/Andrew-S-Davis/andrew_davis_site)**  
+  Personal webpage that highlights personal projects and interests alike
 
 ##  About Me
 
-I’m based in New York and enjoy working on data-driven projects in fast-paced environments. My background in hands-on engineering gives me a unique approach to problem-solving, whether it's in a lab, a factory, or a dataset.
+Cloud Architect and Data Engineer with 9+ years supporting science forward, mission-critical government programs, including NASA’s Astrophysics Division. Proven ability to deliver high-impact technical solutions for scientific and engineering domains, particularly where cloud-native technologies, big data processing, and DevSecOps intersect. Experienced in cross-functional collaboration, stakeholder engagement, and driving innovation in regulated environments.
 
- Reach me at **joshuaparkersmith@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/joshua-smith-profile).
+Reach me at **andrew.s.davis11@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/andrewstephendavis/).
