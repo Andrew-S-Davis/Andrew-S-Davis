@@ -2,16 +2,16 @@
 
 Cloud Architect and Data Engineer with 9+ years supporting science forward, mission-critical, government programs. Proven ability to deliver high-impact technical solutions for scientific and engineering domains, particularly where cloud-native technologies, big data processing, and DevSecOps intersect. Experienced in cross-functional collaboration, stakeholder engagement, and driving innovation in regulated environments.
 
-<p align="center"> 
-    <a href="https://www.linkedin.com/in/andrewstephendavis/">
-        <img height="50" src="images/linkedin_icon.png"/>
-    </a>
-    <a href="mailto:andrew.s.davis11@gmail.com">
-        <img height="50" src="images/gmail_icon.png"/>
-    </a>
-    <a href="https://development.finkast.com">
-        <img height="50" src="images/finkast_logo.png"/>
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrewstephendavis/" style="display:inline-block; margin: 0 10px;">
+    <img height="50" src="images/linkedin_icon.png" style="vertical-align:middle;"/>
+  </a>
+  <a href="mailto:andrew.s.davis11@gmail.com" style="display:inline-block; margin: 0 10px;">
+    <img height="50" src="images/gmail_icon.png" style="vertical-align:middle;"/>
+  </a>
+  <a href="https://development.finkast.com" style="display:inline-block; margin: 0 10px;">
+    <img height="50" src="images/finkast_logo.png" style="vertical-align:middle;"/>
+  </a>
 </p>
 
 ##  Skills
