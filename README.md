@@ -1,6 +1,13 @@
 # Hi, I'm Andrew Davis
 
-Cloud Architect and Data Engineer with 9+ years supporting science forward, mission-critical, government programs. Proven ability to deliver high-impact technical solutions for scientific and engineering domains, particularly where cloud-native technologies, big data processing, and DevSecOps intersect. Experienced in cross-functional collaboration, stakeholder engagement, and driving innovation in regulated environments.
+Cloud Architect and Data Engineer with 10+ years steering science-forward, mission-critical
+programs across government agencies including NASA, DoD, and FDA. Experience
+delivering cloud-native, massively distributed data platforms on hyperscaler platforms,
+blending petabyte scale lakehouses, event-driven ETL, and knowledge-graph pipelines with
+DevSecOps-grade CI/CD and MLOps. Equally at home hardening VPC/IAM baselines,
+running cost-benefit trade studies, or guiding cross-functional teams and stakeholders, I turn
+complex mission objectives into secure, high-impact solutions that drive innovation in
+regulated environments
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrewstephendavis/" style="display:inline-block; margin: 0 10px; text-decoration: none;"><img height="50" src="images/linkedin_icon.png" style="vertical-align:middle;" /></a>
@@ -28,6 +35,5 @@ Cloud Architect and Data Engineer with 9+ years supporting science forward, miss
 
 ##  About Me
 
-Cloud Architect and Data Engineer with 9+ years supporting science forward, mission-critical government programs, including NASA’s Astrophysics Division. Proven ability to deliver high-impact technical solutions for scientific and engineering domains, particularly where cloud-native technologies, big data processing, and DevSecOps intersect. Experienced in cross-functional collaboration, stakeholder engagement, and driving innovation in regulated environments.
-
+Expanding boundaries is a pillar of my outlook on life. I find enjoyment in the balance of pushing myself physically and mentally to attain new heights— whether it be in the literal sense, hiking one of Colorado’s many 14ers with Burke, or in the abstract, learning about the nuances climate has on the caramelization characteristics of coffee beans. I'm motivated by an insatiable curiosity that has led me to become an avid learner and explorer of the minute details of the world.
 Reach me at **andrew.s.davis11@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/andrewstephendavis/).
