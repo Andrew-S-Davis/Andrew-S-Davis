@@ -25,7 +25,6 @@ A deep interest in the financial markets led me to embark on a personal project 
 This project was inspired by a desire to share James Webb Space Telescope imagery with my family. It automatically retrieves the latest JWST image from the MAST archive, processes it through image stacking and colorization workflows, and delivers a polished version via email to subscribers. The goal is to make cutting-edge space imagery accessible and engaging without requiring any technical setup from the recipient.
 
 - **[Personal Webpage](https://github.com/Andrew-S-Davis/andrew_davis_site)**
-
   My personal website serves as a platform to share my technical projects, write about lessons learned in software architecture, and showcase work that goes beyond what fits into a repository. It is the place where I explore ideas, document my journey, and connect with others.
 
 
