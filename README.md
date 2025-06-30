@@ -22,10 +22,10 @@ Cloud Architect and Data Engineer with 10+ years steering science-forward, missi
     A deep interest in the financial markets led me to embark on a personal project that helps make better sense of the buzz of global markets. I have spent the last five years developing and improving a cloud-native app that blends quantitative analytics with generative AI summaries to surface sharable, actionable investment insights.
 
 - **[James Webb Image Processing](https://github.com/Andrew-S-Davis/JWST)**
-    This project was inspired by a desire to share James Webb Space Telescope imagery with my family. It automatically retrieves the latest JWST image from the MAST archive, processes it through image stacking and colorization workflows, and delivers a polished version via email to subscribers. The goal is to make cutting-edge space imagery accessible and engaging without requiring any technical setup from the recipient.
+  This project was inspired by a desire to share James Webb Space Telescope imagery with my family. It automatically retrieves the latest JWST image from the MAST archive, processes it through image stacking and colorization workflows, and delivers a polished version via email to subscribers. The goal is to make cutting-edge space imagery accessible and engaging without requiring any technical setup from the recipient.
 
 - **[Personal Webpage](https://github.com/Andrew-S-Davis/andrew_davis_site)**
-    My personal website serves as a platform to share my technical projects, write about lessons learned in software architecture, and showcase work that goes beyond what fits into a repository. It is the place where I explore ideas, document my journey, and connect with others.
+  My personal website serves as a platform to share my technical projects, write about lessons learned in software architecture, and showcase work that goes beyond what fits into a repository. It is the place where I explore ideas, document my journey, and connect with others.
 
 ##  About Me
 Expanding boundaries is at the core of my personal philosophy. I enjoy a balance of pushing myself mentally and physically to attain new heights— whether it be in the literal sense, hiking one of Colorado’s many 14ers, or in the abstract, learning about the nuances climate has on the caramelization characteristics of coffee beans. I have always been driven by a deep, unrelenting curiosity. This passion for exploration fuels my constant desire to learn and understand the smallest details of the world we live in.
