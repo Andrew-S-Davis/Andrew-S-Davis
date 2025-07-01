@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Davis
 
-Cloud Architect and Data Engineer with 10+ years steering science-forward, mission-critical programs across government agencies including NASA, DoD, and FDA. Experience delivering cloud-native, massively distributed data platforms on hyperscaler infrastructure, blending petabyte scale lakehouses, event-driven ETL, and knowledge-graph pipelines with DevSecOps-grade CI/CD and MLOps. Proven track record of managing client and stakeholder relationships, aligning technical strategies with organizational goals and leading engineering teams to deliver and integrate full stack solutions. I turn complex mission objectives into secure, high-impact solutions that drive innovation in regulated environments.
+Cloud Architect and Data Engineer with 10+ years steering science-forward, mission-critical programs across government agencies including NASA, DoD, and FDA. Experience delivering cloud-native, massively distributed data platforms on hyperscaler infrastructure, blending petabyte scale lakehouses, event-driven ETL, and knowledge-graph pipelines with DevSecOps-grade CI/CD and MLOps. Proven track record of managing client and stakeholder relationships, aligning technical strategies with organizational goals and leading engineering teams to deliver and integrate full stack solutions. I turn complex mission objectives into secure, high impact solutions that drive innovation in regulated environments.
 
 
 <p align="center">
