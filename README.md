@@ -28,6 +28,6 @@ This project was inspired by a desire to share James Webb Space Telescope imager
 My personal website serves as a platform to share my technical projects, write about lessons learned in software architecture, and showcase work that goes beyond what fits into a repository. It is the place where I explore ideas, document my journey, and connect with others.
 
 ##  About Me
-Expanding boundaries is at the core of my personal philosophy. I enjoy a balance of pushing myself mentally and physically to attain new heights— whether it be in the literal sense, hiking one of Colorado’s many 14ers, or in the abstract, learning about the nuances climate has on the caramelization characteristics of coffee beans. I have always been driven by a deep, unrelenting curiosity. This passion for exploration fuels my constant desire to learn and understand the smallest details of the world we live in.
+Expanding boundaries is at the core of my personal philosophy. I enjoy a balance of pushing myself mentally and physically to attain new heights whether it be in the literal sense, hiking one of Colorado’s many 14ers, or in the abstract, learning about the nuances climate has on the caramelization characteristics of coffee beans. I have always been driven by a deep, unrelenting curiosity. This passion for exploration fuels my constant desire to learn and understand the smallest details of the world we live in.
 
 Reach me at **andrew.s.davis11@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/andrewstephendavis/).
